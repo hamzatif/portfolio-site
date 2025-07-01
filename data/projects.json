@@ -1,0 +1,9 @@
+[
+  {
+    "title": "Fraud Detection with Azure",
+    "description": "Built an end-to-end fraud detection pipeline on 1M+ transactions using PySpark and MLlib.",
+    "tech": ["PySpark", "Azure Data Factory", "MLlib"],
+    "image": "/images/fraud.png",
+    "github": "https://github.com/yourusername/fraud-detection"
+  }
+]
